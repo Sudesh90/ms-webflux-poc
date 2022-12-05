@@ -9,7 +9,7 @@ import java.time.Duration;
  * This class is a source of reactive streams used in the exercises.
  * DO NOT MODIFY THIS CODE
  *
- * @author koushikkothagal
+ * @author Sudesh Kumar
  */
 public class ReactiveSources {
 
