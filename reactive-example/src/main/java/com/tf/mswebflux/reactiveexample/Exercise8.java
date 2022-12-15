@@ -1,3 +1,4 @@
+
 package com.tf.mswebflux.reactiveexample;
 
 import java.io.IOException;
@@ -5,7 +6,7 @@ import java.io.IOException;
 public class Exercise8 {
 
 
-    public static void test() throws IOException {
+    public static void main(String[] args) throws IOException {
 
         // Use ReactiveSources.intNumbersFluxWithException()
 
